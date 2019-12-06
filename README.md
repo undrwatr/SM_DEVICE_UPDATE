@@ -1,0 +1,1 @@
+python program that goes through and looks at a data file and then using the two columns in that starts to update all of the device in the Meraki SM network based on S/N. I used for several 100 devices to update them all before they went into production. Will be using this for more major updates going forward as needed.
